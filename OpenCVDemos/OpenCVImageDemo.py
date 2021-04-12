@@ -1,7 +1,8 @@
 import cv2
 import tkinter
 import numpy
-import PIL.Image, PIL.ImageTk
+import PIL.Image
+import PIL.ImageTk
 
 
 class Image:
