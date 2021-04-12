@@ -16,7 +16,7 @@ class Image:
     width: int
     channels: int
 
-    data: numpy.ndarray
+    data: numpy.ndarray # potatoes
 
     # The image in a format that tkinter can process
     photo_image: tkinter.PhotoImage
